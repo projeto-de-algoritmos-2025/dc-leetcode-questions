@@ -1,4 +1,4 @@
-class Node(object):
+class Node:
     def __init__(
         self,
         val=False,
@@ -16,7 +16,7 @@ class Node(object):
         self.bottomRight = bottomRight
 
 
-class Solution(object):
+class Solution:
     def construct(self, grid):
         return self._construct_recursive(grid, 0, 0, len(grid))
 

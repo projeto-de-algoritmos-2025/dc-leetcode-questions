@@ -1,8 +1,9 @@
 ## Balance a Binary Search Tree
 
+Topics: Divide and Conquer  
 Complexidade: Medium  
 ID: 1382
-Link: https://leetcode.com/problems/balance-a-binary-search-tree/
+Link: https://leetcode.com/problems/balance-a-binary-search-tree/?envType=problem-list-v2&envId=divide-and-conquer
 
 Dado o root de uma árvore de pesquisa binária, retorno a equilibrado árvore de pesquisa binária com os mesmos valores de nó. Se houver mais de uma resposta, retorne qualquer um deles.
 
